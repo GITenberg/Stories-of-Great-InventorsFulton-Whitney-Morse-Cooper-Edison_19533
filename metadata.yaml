@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '8727'
     url: http://www.gutenberg.org/2009/agents/8727
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19533#Stories-of-Great-InventorsFulton-Whitney-Morse-Cooper-Edison
 gutenberg_bookshelf:
 - Technology
 - Children's Biography
